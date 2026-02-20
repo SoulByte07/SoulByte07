@@ -1,6 +1,6 @@
 <div align="center">
 
-![Profile Header](https://capsule-render.vercel.app/api?type=waving&color=89b4fa&height=200&section=header&text=Hi,%20I'm%20Soul&fontSize=50&animation=fadeIn&fontAlignY=38&desc=AWS%20Cloud%20Engineer%20%7C%20Arch%20Linux%20%7C%20Security&descAlignY=55&descAlign=50)
+![Profile Header](https://capsule-render.vercel.app/api?type=waving&color=89b4fa&height=200&section=header&text=Hi,%20I%20am%20Soul&fontSize=50&animation=fadeIn&fontAlignY=38&desc=AWS%20Cloud%20Engineer%20%7C%20Arch%20Linux%20%7C%20Security&descAlignY=55&descAlign=50&v=1)
 
 <p><em>Building secure, scalable cloud architectures and obsessing over terminal-centric workflows.</em></p>
   
@@ -40,6 +40,6 @@
 
 <div align="center">
 
-![Soul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SoulByte07&show_icons=true&theme=catppuccin_mocha&hide_border=true&bg_color=1e1e2e)
+![Soul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SoulByte07&show_icons=true&theme=catppuccin_mocha&hide_border=true&bg_color=1e1e2e&cache_seconds=3600)
 
 </div>
