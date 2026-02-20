@@ -1,6 +1,7 @@
 <div align="center">
 
-  <h1>Hi, I'm Soul 👋</h1>
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=89b4fa&amp;height=200&amp;section=header&amp;text=Hi,%20I%20am%20Soul&amp;fontSize=50&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=AWS%20Cloud%20Engineer%20%7C%20Arch%20Linux%20%7C%20Security&amp;descAlignY=55&amp;descAlign=50&amp;v=2026" alt="Profile Header" />
+
   <p><em>Building secure, scalable cloud architectures and obsessing over terminal-centric workflows.</em></p>
   
   <a href="https://linkedin.com/in/mohankiran07/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"/></a>
