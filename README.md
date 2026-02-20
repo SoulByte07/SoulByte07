@@ -31,6 +31,7 @@
 
 ### 📂 Featured Work
 * **[AWS Multi Availability Zone VPC Architechture](https://github.com/SoulByte07/AWS-Multi-Availability-Zone-VPC-Architecture):** A secure, fault-tolerant AWS network featuring Public/Private subnet isolation across two Availability Zones. Includes NAT Gateway integration for secure outbound traffic and automated EC2 bootstrapping via Bash scripts.
+* **[AWS Scalable Web Architechture](https://github.com/SoulByte07/AWS-Scalable-Web-Architecture):** A secure, highly available 3-tier cloud framework designed to modernize legacy monolithic applications. This project addresses critical downtime risks and traffic surge challenges through multi-zone redundancy and auto-scaling.
 * **[Dotfiles](https://github.com/SoulByte07/My-Arch-Configs):** My custom configurations for Hyprland, dwl, Neovim, and Zsh featuring a unified workflow.
 * **[Security Research / Automation](https://github.com/SoulByte07/My-Scripts):** Scripts and automation workflows focusing on environment sandboxing and system hardening.
 
