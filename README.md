@@ -30,9 +30,9 @@
 <br>
 
 ### 📂 Featured Work
-* **[AWS Scalable Web Architecture](https://github.com/SoulByte07/AWS-Scalable-Web-Architecture):** Designed a 3-tier AWS architecture to migrate a legacy monolithic application, focusing on high availability and resolving traffic bottlenecks.
-* **[Dotfiles & Window Managers](#):** My custom configurations for Hyprland, dwl, Neovim, and Zsh featuring a unified workflow.
-* **[Security Research / Automation](#):** Scripts and automation workflows focusing on environment sandboxing and system hardening.
+* **[AWS Multi Availability Zone VPC Architechture](https://github.com/SoulByte07/AWS-Multi-Availability-Zone-VPC-Architecture):** Designed a 3-tier AWS architecture to migrate a legacy monolithic application, focusing on high availability and resolving traffic bottlenecks.
+* **[Dotfiles](https://github.com/SoulByte07/My-Arch-Configs):** My custom configurations for Hyprland, dwl, Neovim, and Zsh featuring a unified workflow.
+* **[Security Research / Automation](https://github.com/SoulByte07/My-Scripts):** Scripts and automation workflows focusing on environment sandboxing and system hardening.
 
 ---
 
