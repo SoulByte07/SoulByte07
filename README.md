@@ -1,30 +1,12 @@
-
-<!--
-**SoulByte07/SoulByte07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=89b4fa&height=200&section=header&text=Hi,%20I'm%20Soul&fontSize=50&animation=fadeIn&fontAlignY=38&desc=AWS%20Cloud%20Engineer%20%7C%20Arch%20Linux%20%7C%20Security&descAlignY=55&descAlign=50" alt="Profile Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=89b4fa&height=200&section=header&text=Hi,%20I'm%20Moha Kiran B&fontSize=50&animation=fadeIn&fontAlignY=38&desc=AWS%20Cloud%20Engineer%20%7C%20Arch%20Linux%20%7C%20Security&descAlignY=55&descAlign=50" alt="Profile Header" />
 </div>
 
 <div align="center">
   <p><em>Building secure, scalable cloud architectures and obsessing over terminal-centric workflows.</em></p>
   
   <a href="https://linkedin.com/in/mohankiran07/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="mailto:soulbyte.legacy485@passinbox.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </div>
 
 ---
@@ -49,8 +31,8 @@ Here are some ideas to get you started:
 
 ### 📂 Featured Work
 * **[AWS Scalable Web Architecture](https://github.com/SoulByte07/AWS-Scalable-Web-Architecture):** Designed a 3-tier AWS architecture to migrate a legacy monolithic application, focusing on high availability and resolving traffic bottlenecks.
-* **[Dotfiles & Window Managers](#):** My custom configurations for Hyprland, dwl, Neovim, and Zsh featuring a unified workflow.
 * **[Security Research / Automation](#):** Scripts and automation workflows focusing on environment sandboxing and system hardening.
+* **[Dotfiles & Window Managers](#):** My custom configurations for Hyprland, dwl, Neovim, and Zsh featuring a unified workflow.
 
 ---
 
