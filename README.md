@@ -13,9 +13,9 @@
 
 ### 🚀 About Me
 - ☁️ **Cloud Infrastructure:** Architecting highly available environments on AWS.
-- 🐧 **Environment:** Daily driving **Arch Linux** (Hyprland/dwl) on a BTRFS filesystem.
 - 🔒 **Security:** Deep interest in network security, IAM concepts, and privacy-respecting FOSS.
-- 💻 **Workflow:** Terminal maximalist using **Neovim, Zsh, Yazi**, and local AI tools.
+- 🐧 **Environment:** Daily driving **Arch Linux** (Hyprland/dwl) on a BTRFS filesystem.
+
 
 ### 🛠️ Tech Stack
 <div align="left">
