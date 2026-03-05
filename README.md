@@ -34,7 +34,7 @@
 * **[AWS Scalable Web Architechture](https://github.com/SoulByte07/AWS-Scalable-Web-Architecture):** A secure, highly available 3-tier cloud framework designed to modernize legacy monolithic applications. This project addresses critical downtime risks and traffic surge challenges through multi-zone redundancy and auto-scaling.
 * **[Dotfiles](https://github.com/SoulByte07/My-Arch-Configs):** My custom configurations for Hyprland, dwl, Neovim, and Zsh featuring a unified workflow.
 * **[Security Research / Automation](https://github.com/SoulByte07/My-Scripts):** Scripts and automation workflows focusing on environment sandboxing and system hardening.
-
+* **[IPL Analysis](https://github.com/SoulByte07/IPL_Analysis.git):** Developed an end-to-end data analysis pipeline to extract insights from IPL historical datasets. The project focuses on identifying performance trends, venue impacts, and strategic decision-making patterns using Python’s data science ecosystem to turn raw data into actionable visual stories.
 ---
 
 ### 📊 GitHub Stats
