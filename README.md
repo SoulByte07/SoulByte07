@@ -74,6 +74,7 @@ I am a DevOps & Backend Engineer specializing in resilient, highly available inf
 *   ☸️ **Cloud Native:** Deep diving into Kubernetes architecture and scheduling.
 *   🐹 **System Scripting:** Learning Go (Golang) for infrastructure tooling.
 *   ☁️ **AWS Certification:** Preparing for AWS Certified Solutions Architect Associate.
+*   🏗️ **System Design:** Studying scalable backend architecture patterns.
 
 ---
 
