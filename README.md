@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=89b4fa&amp;height=200&amp;section=header&amp;text=Hi,%20I%20am%20Mohan%20Kiran&amp;fontSize=50&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=DevOps%20%2F%20BackEnd%20Engineer%20%7C%20Arch%20Linux&amp;descAlignY=55&amp;descAlign=50&amp;v=2026" alt="Profile Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=cba6f7&amp;height=200&amp;section=header&amp;text=Hi,%20I%20am%20Mohan%20Kiran&amp;fontSize=50&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=DevOps%20%2F%20BackEnd%20Engineer%20%7C%20Arch%20Linux&amp;descAlignY=55&amp;descAlign=50&amp;v=2026" alt="Profile Header" />
 
   <p><em>Bridging the gap between high-performance async APIs and automated, self-healing cloud infrastructure.</em></p>
   
