@@ -31,27 +31,31 @@ I am a DevOps & Backend Engineer specializing in resilient, highly available inf
 ### 🚀 Featured Projects
 
 #### 🌐 [AWS Scalable Web Architecture (Vocal4Local Migration)](https://github.com/SoulByte07/AWS-Scalable-Web-Architecture)
+> **Tech Stack:** `AWS`, `Terraform`, `SOPS`
+
 *   Eliminated 4 critical business risks (downtime, latency, data exposure, traffic surges) by migrating a legacy monolithic application to a 3-tier AWS architecture with Multi-AZ redundancy across 2 Availability Zones and global edge caching.
 *   Achieved defense-in-depth network security by isolating application and database layers in private subnets behind AWS WAF.
 *   Improved page load times for international users by serving static assets through CloudFront global edge caching.
-*   **Tech Stack:** `AWS`, `Terraform`, `SOPS`
 
 #### 🧹 [Multi-Cloud Cost Hygiene Automation](https://github.com/SoulByte07/cost-hygiene-automation)
+> **Tech Stack:** `LocalStack`, `Terraform`, `Python`, `GitHub Actions`
+
 *   Reduced cloud testing overhead by building a local-first cost detection workflow with LocalStack and Terraform, eliminating the need for real AWS infrastructure during development.
 *   Reduced risk of orphaned cloud resources by building a Python janitor CLI that detects 3 categories of idle assets (unattached EBS, stopped EC2, unassociated EIPs) with dry-run safety and Protected-tag skip.
 *   Standardized infrastructure validation across 7 pipeline stages by implementing a GitHub Actions CI/CD workflow automating Terraform checks and janitor reporting.
-*   **Tech Stack:** `LocalStack`, `Terraform`, `Python`, `GitHub Actions`
 
 #### 🛡️ [RankGuard – Async Transaction Processor & Leaderboard](https://github.com/SoulByte07/RankGuard)
+> **Tech Stack:** `FastAPI`, `Python`, `PostgreSQL`, `SQLAlchemy 2.0`, `Alembic`, `Docker Compose`, `pytest`
+
 *   Guaranteed exactly-once transaction processing across 4 database tables by building an async FastAPI backend with idempotency keys and per-user concurrency locks.
 *   Enabled multi-factor scoring across 3 transaction types (earn, spend, bonus) by implementing materialized rank computation with atomic SQLAlchemy snapshot updates.
 *   Streamlined deployment and schema consistency by containerizing with Docker Compose and automating PostgreSQL migrations via Alembic, validated by 8 tests.
-*   **Tech Stack:** `FastAPI`, `Python`, `PostgreSQL`, `SQLAlchemy 2.0`, `Alembic`, `Docker Compose`, `pytest`
 
 #### 📊 [IPL Cricket Data Analytics & Visualization](https://github.com/SoulByte07/IPL_Analysis)
+> **Tech Stack:** `Python (Pandas)`, `Jupyter Notebook`, `PowerBI`
+
 *   Extracted actionable insights from 2 IPL datasets (matches, deliveries) by performing exploratory analysis with Python Pandas across 6 visualization dimensions including team performance and venue trends.
 *   Enabled data-driven storytelling by building interactive PowerBI dashboards covering season distributions, top performers, and match outcome patterns.
-*   **Tech Stack:** `Python (Pandas)`, `Jupyter Notebook`, `PowerBI`
 
 ---
 
