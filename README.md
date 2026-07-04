@@ -4,8 +4,8 @@
 
   <p><em>Bridging the gap between high-performance async APIs and automated, self-healing cloud infrastructure.</em></p>
   
-  <a href="https://linkedin.com/in/SoulByte07"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:SoulByte07@protonmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&amp;logo=protonmail&amp;logoColor=white" alt="Email"/></a>
+  <a href="https://linkedin.com/in/mohankiran07"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:mohankiran07@protonmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&amp;logo=protonmail&amp;logoColor=white" alt="Email"/></a>
 
 </div>
 
@@ -13,10 +13,6 @@
 
 ### 🧑‍💻 About Me
 I am a DevOps & Backend Engineer specializing in resilient, highly available infrastructure and robust backend systems. I design Multi-AZ AWS architectures, build async API services with FastAPI, and automate CI/CD pipelines. My goal is to build fault-tolerant, scalable systems using Infrastructure as Code (Terraform) and containerized workflows.
-
-* 🎓 **B.Tech in Computer Science and Engineering** (2023 - 2027) at SRKR Engineering College
-* 📈 **CGPA:** 8.7/10
-* 💡 **Interests:** Local-first cloud testing (LocalStack), containerization, system hardening, and terminal-centric workflows.
 
 ---
 
@@ -84,7 +80,14 @@ I am a DevOps & Backend Engineer specializing in resilient, highly available inf
 
 ---
 
+### 🎓 Education & Interests
+* 🎓 **B.Tech in Computer Science and Engineering** (2023 - 2027) at SRKR Engineering College
+* 📈 **CGPA:** 8.7/10
+* 💡 **Interests:** Local-first cloud testing (LocalStack), containerization, system hardening, and terminal-centric workflows.
+
+---
+
 ### 🤝 Get In Touch
 *   **Open to:** DevOps/Cloud-native open-source tool contributions, backend API design collaborations, and internship opportunities.
-*   **LinkedIn:** [linkedin.com/in/SoulByte07](https://linkedin.com/in/SoulByte07)
-*   **Email:** [SoulByte07@protonmail.com](mailto:SoulByte07@protonmail.com)
+*   **LinkedIn:** [linkedin.com/in/mohankiran07](https://linkedin.com/in/mohankiran07)
+*   **Email:** [mohankiran07@protonmail.com](mailto:mohankiran07@protonmail.com)
