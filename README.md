@@ -14,17 +14,13 @@
 ### 🧑‍💻 About Me
 I am a DevOps & Backend Engineer specializing in resilient, highly available infrastructure and robust backend systems. I design Multi-AZ AWS architectures, build async API services with FastAPI, and automate CI/CD pipelines. My goal is to build fault-tolerant, scalable systems using Infrastructure as Code (Terraform) and containerized workflows.
 
-* 🎓 **B.Tech in Computer Science and Engineering** (2023 - 2027) at SRKR Engineering College
-* 📈 **CGPA:** 8.7/10
-* 💡 **Interests:** Local-first cloud testing (LocalStack), containerization, system hardening, and terminal-centric workflows.
-
 ---
 
 ### 🛠️ Key Skills Matrix
 
 | Category | Technologies |
 | --- | --- |
-| **Cloud & Infra** | ![AWS](https://img.shields.io/badge/AWS-0D1117?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900) ![Terraform](https://img.shields.io/badge/Terraform-0D1117?style=for-the-badge&logo=terraform&logoColor=844FBA) ![LocalStack](https://img.shields.io/badge/LocalStack-0D1117?style=for-the-badge&logo=localstack&logoColor=00FFCC) ![SOPS](https://img.shields.io/badge/SOPS-0D1117?style=for-the-badge&logo=mozilla&logoColor=FF0000) |
+| **Cloud & Infra** | ![AWS](https://img.shields.io/badge/AWS-0D1117?style=for-the-badge&logo=amazon-aws&logoColor=FF9900) ![Terraform](https://img.shields.io/badge/Terraform-0D1117?style=for-the-badge&logo=terraform&logoColor=844FBA) ![LocalStack](https://img.shields.io/badge/LocalStack-0D1117?style=for-the-badge&logo=localstack&logoColor=00FFCC) ![SOPS](https://img.shields.io/badge/SOPS-0D1117?style=for-the-badge&logo=mozilla&logoColor=FF0000) |
 | **CI/CD & Containers** | ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0D1117?style=for-the-badge&logo=githubactions&logoColor=2088FF) ![Jenkins](https://img.shields.io/badge/Jenkins-0D1117?style=for-the-badge&logo=jenkins&logoColor=D24939) ![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED) ![Podman](https://img.shields.io/badge/Podman-0D1117?style=for-the-badge&logo=podman&logoColor=892CA0) ![Buildah](https://img.shields.io/badge/Buildah-0D1117?style=for-the-badge&logo=redhat&logoColor=EE0000) |
 | **Backend & Scripting** | ![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB) ![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=009688) ![Bash](https://img.shields.io/badge/Bash-0D1117?style=for-the-badge&logo=gnu-bash&logoColor=4EAA25) ![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624) ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-0D1117?style=for-the-badge&logo=python&logoColor=D7191C) |
 | **Databases & Analytics** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4169E1) ![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1) ![Pandas](https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=150458) ![Power BI](https://img.shields.io/badge/Power_BI-0D1117?style=for-the-badge&logo=powerbi&logoColor=F2C811) |
@@ -91,6 +87,13 @@ I am a DevOps & Backend Engineer specializing in resilient, highly available inf
 *   ☸️ **Cloud Native:** Deep diving into Kubernetes architecture and scheduling.
 *   🐹 **System Scripting:** Learning Go (Golang) for infrastructure tooling.
 *   ☁️ **AWS Certification:** Preparing for AWS Certified Solutions Architect Associate.
+
+---
+
+### 🎓 Education & Interests
+* 🎓 **B.Tech in Computer Science and Engineering** (2023 - 2027) at SRKR Engineering College
+* 📈 **CGPA:** 8.7/10
+* 💡 **Interests:** Local-first cloud testing (LocalStack), containerization, system hardening, and terminal-centric workflows.
 
 ---
 
