@@ -83,19 +83,7 @@ I am a DevOps & Backend Engineer specializing in resilient, highly available inf
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SoulByte07&theme=tokyonight&background=0d1117&ring=00ffff&fire=00ffff&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" />
 </div>
 
-<br/>
 
-<!-- START WAKATIME SECTION -->
-#### ⏱️ Weekly Coding Activity
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-<!-- END WAKATIME SECTION -->
-
-<!-- START BLOG POSTS SECTION -->
-#### ✍️ Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-<!-- END BLOG POSTS SECTION -->
 
 ---
 
