@@ -4,9 +4,8 @@
 
   <p><em>Bridging the gap between high-performance async APIs and automated, self-healing cloud infrastructure.</em></p>
   
-  <a href="https://linkedin.com/in/mohankiran07"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:mohankiran07@protonmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&amp;logo=protonmail&amp;logoColor=white" alt="Email"/></a>
-  <a href="https://mohankiran.carrd.co/"><img src="https://img.shields.io/badge/Website-89b4fa?style=for-the-badge&amp;logo=carrd&amp;logoColor=white" alt="Website"/></a>
+  <a href="https://linkedin.com/in/SoulByte07"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:SoulByte07@protonmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&amp;logo=protonmail&amp;logoColor=white" alt="Email"/></a>
 
 </div>
 
@@ -15,15 +14,19 @@
 ### 🧑‍💻 About Me
 I am a DevOps & Backend Engineer specializing in resilient, highly available infrastructure and robust backend systems. I design Multi-AZ AWS architectures, build async API services with FastAPI, and automate CI/CD pipelines. My goal is to build fault-tolerant, scalable systems using Infrastructure as Code (Terraform) and containerized workflows.
 
+* 🎓 **B.Tech in Computer Science and Engineering** (2023 - 2027) at SRKR Engineering College
+* 📈 **CGPA:** 8.7/10
+* 💡 **Interests:** Local-first cloud testing (LocalStack), containerization, system hardening, and terminal-centric workflows.
+
 ---
 
 ### 🛠️ Key Skills Matrix
 
 | Category | Technologies |
 | --- | --- |
-| **Cloud & Infra** | ![AWS](https://img.shields.io/badge/AWS-0D1117?style=for-the-badge&logo=amazon-aws&logoColor=FF9900) ![Terraform](https://img.shields.io/badge/Terraform-0D1117?style=for-the-badge&logo=terraform&logoColor=844FBA) ![LocalStack](https://img.shields.io/badge/LocalStack-0D1117?style=for-the-badge&logo=localstack&logoColor=00FFCC) ![SOPS](https://img.shields.io/badge/SOPS-0D1117?style=for-the-badge&logo=mozilla&logoColor=FF0000) |
-| **CI/CD & Containers** | ![Kubernetes](https://img.shields.io/badge/Kubernetes-0D1117?style=for-the-badge&logo=kubernetes&logoColor=326CE5) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0D1117?style=for-the-badge&logo=githubactions&logoColor=2088FF) ![Jenkins](https://img.shields.io/badge/Jenkins-0D1117?style=for-the-badge&logo=jenkins&logoColor=D24939) ![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED) ![Podman](https://img.shields.io/badge/Podman-0D1117?style=for-the-badge&logo=podman&logoColor=892CA0) ![Buildah](https://img.shields.io/badge/Buildah-0D1117?style=for-the-badge&logo=redhat&logoColor=EE0000) |
-| **Backend & Scripting** | ![Go](https://img.shields.io/badge/Go-0D1117?style=for-the-badge&logo=go&logoColor=00ADD8) ![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB) ![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=009688) ![Bash](https://img.shields.io/badge/Bash-0D1117?style=for-the-badge&logo=gnu-bash&logoColor=4EAA25) ![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624) ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-0D1117?style=for-the-badge&logo=python&logoColor=D7191C) |
+| **Cloud & Infra** | ![AWS](https://img.shields.io/badge/AWS-0D1117?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900) ![Terraform](https://img.shields.io/badge/Terraform-0D1117?style=for-the-badge&logo=terraform&logoColor=844FBA) ![LocalStack](https://img.shields.io/badge/LocalStack-0D1117?style=for-the-badge&logo=localstack&logoColor=00FFCC) ![SOPS](https://img.shields.io/badge/SOPS-0D1117?style=for-the-badge&logo=mozilla&logoColor=FF0000) |
+| **CI/CD & Containers** | ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0D1117?style=for-the-badge&logo=githubactions&logoColor=2088FF) ![Jenkins](https://img.shields.io/badge/Jenkins-0D1117?style=for-the-badge&logo=jenkins&logoColor=D24939) ![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED) ![Podman](https://img.shields.io/badge/Podman-0D1117?style=for-the-badge&logo=podman&logoColor=892CA0) ![Buildah](https://img.shields.io/badge/Buildah-0D1117?style=for-the-badge&logo=redhat&logoColor=EE0000) |
+| **Backend & Scripting** | ![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB) ![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=009688) ![Bash](https://img.shields.io/badge/Bash-0D1117?style=for-the-badge&logo=gnu-bash&logoColor=4EAA25) ![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624) ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-0D1117?style=for-the-badge&logo=python&logoColor=D7191C) |
 | **Databases & Analytics** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4169E1) ![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1) ![Pandas](https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=150458) ![Power BI](https://img.shields.io/badge/Power_BI-0D1117?style=for-the-badge&logo=powerbi&logoColor=F2C811) |
 
 ---
@@ -65,13 +68,20 @@ I am a DevOps & Backend Engineer specializing in resilient, highly available inf
 
 ### ⚡ Dynamic Metrics & Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SoulByte07&amp;show_icons=true&amp;theme=tokyonight&amp;bg_color=0d1117&amp;title_color=00ffff&amp;text_color=ffffff&amp;icon_color=00ffff&amp;hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SoulByte07&amp;layout=compact&amp;theme=tokyonight&amp;bg_color=0d1117&amp;title_color=00ffff&amp;text_color=ffffff&amp;icon_color=00ffff&amp;hide_border=true" alt="Top Languages" width="48%" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SoulByte07&amp;theme=tokyonight&amp;background=0d1117&amp;ring=00ffff&amp;fire=00ffff&amp;currStreakNum=ffffff&amp;sideNums=ffffff&amp;sideLabels=ffffff&amp;dates=ffffff&amp;hide_border=true" alt="GitHub Streak" />
-</p>
+<div align="center">
+  <table border="0">
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=SoulByte07&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=00ffff&text_color=ffffff&icon_color=00ffff&hide_border=true" alt="GitHub Stats" width="100%" />
+      </td>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoulByte07&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=00ffff&text_color=ffffff&icon_color=00ffff&hide_border=true" alt="Top Languages" width="100%" />
+      </td>
+    </tr>
+  </table>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SoulByte07&theme=tokyonight&background=0d1117&ring=00ffff&fire=00ffff&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" />
+</div>
 
 
 
@@ -84,15 +94,7 @@ I am a DevOps & Backend Engineer specializing in resilient, highly available inf
 
 ---
 
-### 🎓 Education & Interests
-* 🎓 **B.Tech in Computer Science and Engineering** (2023 - 2027) at SRKR Engineering College
-* 📈 **CGPA:** 8.7/10
-* 💡 **Interests:** Local-first cloud testing (LocalStack), containerization, system hardening, and terminal-centric workflows.
-
----
-
 ### 🤝 Get In Touch
 *   **Open to:** DevOps/Cloud-native open-source tool contributions, backend API design collaborations, and internship opportunities.
-*   **LinkedIn:** [linkedin.com/in/mohankiran07](https://linkedin.com/in/mohankiran07)
-*   **Email:** [mohankiran07@protonmail.com](mailto:mohankiran07@protonmail.com)
-*   **Website:** [mohankiran.carrd.co](https://mohankiran.carrd.co/)
+*   **LinkedIn:** [linkedin.com/in/SoulByte07](https://linkedin.com/in/SoulByte07)
+*   **Email:** [SoulByte07@protonmail.com](mailto:SoulByte07@protonmail.com)
