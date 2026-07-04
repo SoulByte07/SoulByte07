@@ -90,3 +90,5 @@ I am a DevOps & Backend Engineer specializing in resilient, highly available inf
 *   **LinkedIn:** [linkedin.com/in/mohankiran07](https://linkedin.com/in/mohankiran07)
 *   **Email:** [mohankiran07@protonmail.com](mailto:mohankiran07@protonmail.com)
 *   **Website:** [mohankiran.carrd.co](https://mohankiran.carrd.co/)
+*   **Credly:** [credly.com/users/mohankiran07](https://www.credly.com/users/mohankiran07)
+*   **HackerRank:** [hackerrank.com/profile/SoulByte07](https://www.hackerrank.com/profile/SoulByte07)
