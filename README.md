@@ -62,11 +62,11 @@ I am a DevOps & Backend Engineer specializing in resilient, highly available inf
 ### ⚡ Dynamic Metrics & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SoulByte07&amp;show_icons=true&amp;theme=tokyonight&amp;bg_color=0d1117&amp;title_color=00ffff&amp;text_color=ffffff&amp;icon_color=00ffff&amp;hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoulByte07&amp;layout=pie&amp;langs_count=8&amp;theme=tokyonight&amp;bg_color=0d1117&amp;title_color=00ffff&amp;text_color=ffffff&amp;icon_color=00ffff&amp;hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoulByte07&amp;layout=pie&amp;langs_count=8&amp;theme=tokyonight&amp;bg_color=0d1117&amp;title_color=00ffff&amp;text_color=ffffff&amp;icon_color=00ffff&amp;hide_border=true" alt="Top Languages" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SoulByte07&amp;theme=tokyonight&amp;background=0d1117&amp;ring=00ffff&amp;fire=00ffff&amp;currStreakNum=ffffff&amp;sideNums=ffffff&amp;sideLabels=ffffff&amp;dates=ffffff&amp;hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SoulByte07&amp;show_icons=true&amp;hide_rank=true&amp;theme=tokyonight&amp;bg_color=0d1117&amp;title_color=00ffff&amp;text_color=ffffff&amp;icon_color=00ffff&amp;hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SoulByte07&amp;theme=tokyonight&amp;background=0d1117&amp;ring=00ffff&amp;fire=00ffff&amp;currStreakNum=ffffff&amp;sideNums=ffffff&amp;sideLabels=ffffff&amp;dates=ffffff&amp;hide_border=true" alt="GitHub Streak" width="48%" />
 </p>
 
 
