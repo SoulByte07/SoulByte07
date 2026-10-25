@@ -59,6 +59,14 @@ I am a DevOps & Backend Engineer specializing in resilient, highly available inf
 
 ---
 
+### 💻 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoulByte07&amp;theme=tokyonight&amp;bg_color=0d1117&amp;title_color=00ffff&amp;text_color=ffffff&amp;icon_color=00ffff&amp;hide_border=true" alt="Most Used Languages" />
+</p>
+
+---
+
 ### ⚡ Dynamic Metrics & Activity
 
 
